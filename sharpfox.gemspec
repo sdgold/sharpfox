@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'sharpfox'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.licenses    = ['MIT']
   s.summary     = "This is an example!"
   s.description = "Much longer explanation of the example!"

@@ -9,7 +9,7 @@ module Sharpfox
 		end
 
 		def sleep
-			puts "ZZZZZZZZZZ!!!"
+			puts "SNOOOOOOORRRREE!!!"
 		end
 	end
 end
